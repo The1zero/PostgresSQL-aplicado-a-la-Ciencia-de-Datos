@@ -1,0 +1,2 @@
+# PostgresSQL-aplicado-a-la-Ciencia-de-Datos
+Proyecto de análisis de datos utilizando PostgreSQL, enfocado en la extracción, transformación y análisis de información almacenada en bases de datos relacionales. Implementación de consultas SQL avanzadas mediante JOINs, CTEs, funciones de ventana, agregaciones y subconsultas para la limpieza, transformación y exploración de datos históricos y geoespaciales. Generación de pipelines de consulta y transformación de datos para el análisis de información y la creación de reportes y dashboards analíticos.
